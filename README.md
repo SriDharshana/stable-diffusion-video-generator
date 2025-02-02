@@ -31,8 +31,8 @@ pip install -r requirements.txt
 
 Clone the repository:
 
-git clone https://github.com/SriDharshana/text-to-video-stable-diffusion.git
-cd text-to-video-stable-diffusion
+git clone https://github.com/SriDharshana/stable-diffusion-video-generator.git
+cd stable-diffusion-video-generator
 
 Install dependencies:
 
